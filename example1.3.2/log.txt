@@ -1,0 +1,7 @@
+error：no used
+error：no used
+info：please input your name
+info：please input your age
+error：no used
+info：please input your name
+exit
